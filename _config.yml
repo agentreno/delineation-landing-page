@@ -135,6 +135,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - vendor
+  - Gemfile
+  - Gemfile.lock
 
 collections:
   pages:
