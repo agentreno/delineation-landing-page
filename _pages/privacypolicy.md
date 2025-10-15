@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: true
+---
+
 # Privacy Policy
 
 Last updated: October 15, 2025
